@@ -7,7 +7,7 @@ import { Button } from "@components/Button";
 export function SignUp() {
   return (
     <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
-      <VStack bg="gray.700" flex="1">
+      <VStack flex="1">
 
         <Image
           source={backgroundImg}
